@@ -1,0 +1,29 @@
+- Butoane de navigare in site (Fixed Navigation Bar cu evidențierea butonului activ) - done
+
+- Funcție de căutare - done
+
+- Carusel de imagini -done
+
+- Tabel de componente - done
+
+- Formular de contact cu posibilitate de trimitere de mail - done
+
+- Validare date introduse pe formulare (email, nr. telefon, cnp, etc.) - done
+
+- Video - done
+
+- Minim 4 pagini: 5/4 - done
+
+- Conectare site cu rețelele de socializare - done
+
+- Text si imagini prezentate in funcție de nevoile utilizatorului - done
+
+- Buton de help - done
+
+- Buton UP/DOWN - done
+
+- Responsive
+
+- Personalizarea fundalului si a textului de pe site - done
+
+- Integrarea serviciului google analytics

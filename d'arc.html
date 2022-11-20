@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <link href ="https://fonts.googleapis.com/css?family=Vollkorn:400,400i,600,700,900&display=swap" rel="stylesheet"/>
+        <link rel="stylesheet"/>
+        <link rel="stylesheet" href="style.css">
+        <!-- Add icon library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>TheParty - D'ARC</title>
+    </head>
+    <body>
+
+        <div class="container">
+            <!- Navbar ->
+            <section class="navbar-section" id="home">
+                <div class="navbar">
+                    <div class = "navbar-list">
+                        <button onclick="lightMode()" class="navbar-link">LightMode</button>
+                        <a href="index.html" class="navbar-link">Home</a>
+                        <button onclick="darkMode()" class="navbar-link">Darkmode</button>
+                        
+                    </div>
+                </div>
+            </section>
+        <!- End of Navbar ->
+
+        <!- Auto Image SlideShow ->
+        <section class="popular-locations" id="locations">
+            <div class="container-slideshow">
+                <div class="wrapper-slideshow">
+                        <img src="images/D'arc.jpg">
+                        <img src="images/D'arc1.jpg">
+                        <img src="images/D'arc2.jpg">
+                        <img src="images/D'arc3.jpg">
+                </div>
+            </div>
+        </section>
+        <!- End of Auto Image SlideShow ->
+        
+        <!- About Section ->
+        <header class="header-about center" id="header-about">
+            <div class="header-text">
+                <h1 class="heading">
+                    D'ARC Timisoara
+                </h1>
+                <p class="header-paragraph-about">
+                    "Believe in love. 
+                    Believe in magic. 
+                    Hell, believe in Santa Clause. 
+                    Believe in others. 
+                    Believe in you"<br><br><br><br><br>
+                </p>
+            </div>
+        </header>
+        <!-End of About Section ->
+
+        <!- Popular Locations ->
+            <section class="popular-locations" id="locations">
+                <div class="cards-wrapper">
+                    <!-D'Arc Card->
+                    <div class="card">
+                        <div class="front-side">
+                            <img src="images/D'arc.jpg" alt="D'arc" class="card-image"/>
+                            <h1 class="location-name">D'arc</h1>
+                            <ul class="card-list">
+                            <li class="card-list-item">Between 22.00PM and 05.00AM</li>
+                            <li class="card-list-item">Up to 200 people</li>
+                            <li class="card-list-item">One DJ</li>
+                            <li class="card-list-item">Consumation min. 50Lei/Pers.</li>
+                            <li class="card-list-item">Party Hard Rationg: 4.5</li>
+                            </ul>
+                            <!- Navigation Button->
+                            <button class="navigation-button">
+                                price &gt;&gt;
+                            </button>
+                        </div>
+                        <div class="back-side center">
+                            <!- Navigation Button->
+                            <button class="navigation-button">
+                                &lt;&lt; Back
+                            </button>
+                            <h3 class="party-price">1000E</h3>
+                            <a href="d'arc.html">
+                                <button class="card-button">Booking</button>
+                            </a>
+                        </div>
+                    </div>
+                    <!-End of D'arc card ->
+            </div>
+        </section>
+        <!- End of Popular Locations ->
+        <!- Footer ->
+            <footer class="footer" id="footer">
+                <div class="footer-list">
+                    <a href="index.html" class="footer-link">Home</a>
+                </div>
+                <div class="socials">
+                    <a href="https://www.facebook.com/" class="fa fa-facebook" target="_blank"></a>
+                    <a href="https://twitter.com/" class="fa fa-twitter" target="_blank"></a>
+                    <a href="https://www.youtube.com/" class="fa fa-youtube" target="_blank"></a>
+                    <a href="https://www.instagram.com/" class="fa fa-instagram" target="_blank"></a>
+                </div>
+                <p class="footer-paragraph">Copyright &copy; CodeAndCreate All Rights Reserved</p>
+            </footer>
+            <!- End of Footer ->
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
