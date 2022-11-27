@@ -1,29 +1,29 @@
-- Butoane de navigare in site (Fixed Navigation Bar cu evidențierea butonului activ) - done
+- Butoane de navigare in site (Fixed Navigation Bar cu evidențierea butonului activ) - done - x
 
-- Funcție de căutare - done
+- Funcție de căutare - done - x
 
-- Carusel de imagini -done
+- Carusel de imagini - done - x
 
-- Tabel de componente - done
+- Tabel de componente - done - x
 
-- Formular de contact cu posibilitate de trimitere de mail - done
+- Formular de contact cu posibilitate de trimitere de mail - done - x
 
-- Validare date introduse pe formulare (email, nr. telefon, cnp, etc.) - done
+- Validare date introduse pe formulare (email, nr. telefon, cnp, etc.) - done - x
 
-- Video - done
+- Video - done - x
 
-- Minim 4 pagini: 5/4 - done
+- Minim 4 pagini: 5/4 - done - x
 
-- Conectare site cu rețelele de socializare - done
+- Conectare site cu rețelele de socializare - done - x
 
-- Text si imagini prezentate in funcție de nevoile utilizatorului - done
+- Text si imagini prezentate in funcție de nevoile utilizatorului - done - x
 
-- Buton de help - done
+- Buton de help - done - x
 
-- Buton UP/DOWN - done
+- Buton UP/DOWN - done - x
 
-- Responsive
+- Responsive - done - x
 
-- Personalizarea fundalului si a textului de pe site - done
+- Personalizarea fundalului si a textului de pe site - done - x
 
-- Integrarea serviciului google analytics
+- Integrarea serviciului google analytics - done - x

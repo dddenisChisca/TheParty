@@ -4,8 +4,8 @@ Array.from(document.querySelectorAll(".navigation-button")).forEach((item) =>{
     };
 });
 
+
 $(document).ready(function () {
- 
     $('ul.navbar-nav > li')
             .click(function (e) {
         $('ul.navbar-nav > li')
